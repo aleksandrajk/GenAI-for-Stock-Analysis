@@ -7,7 +7,7 @@ The core idea behind this project is to apply computational methods to tradition
 
 * **Data Acquisition**: The project utilizes the `yfinance` library to download historical stock data for a diverse set of assets, including major tech companies (Apple, Amazon, Alphabet, Meta, Microsoft, Nvidia, Tesla), Bitcoin, and the S&P 500 index.
 
-* **Portfolio Optimization**: It employs the `PyPortfolioOpt` library, which implements various portfolio optimization techniques. Specifically, the `Final - Optimize Stocks with GenAI.ipynb` notebook demonstrates the use of the Black-Litterman model for portfolio optimization. This model allows for incorporating investor views into the market equilibrium to generate more robust portfolio allocations.
+* **Portfolio Optimization**: It employs the `PyPortfolioOpt` library, which implements various portfolio optimization techniques. Specifically, the `Final_Optimize_Stocks_with_GenAI.ipynb` notebook demonstrates the use of the Black-Litterman model for portfolio optimization. This model allows for incorporating investor views into the market equilibrium to generate more robust portfolio allocations.
 
 * **Performance Metrics**: After optimization, the project calculates key performance indicators for the proposed portfolio, such as:
     * Expected Annual Return: The anticipated return over a year.
